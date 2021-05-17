@@ -1,0 +1,236 @@
+@charset "UTF-8";
+
+.indexMain {
+	background: url(https://www.asqql.com/upfile/extimg/15_10_7_16_02_52/15_10_7_16_02_52.gif);
+	background-position: center;
+  	background-size: cover;
+  	width: 100%;
+  	height: 100vh;
+/*   	font-family:impact; */
+/*   	font-family:font-family; */
+/*   	font-family:Haettenschweiler; */
+  	font-family:HG行書体;
+  	font-style: italic;
+/*   	文字と文字の間 */
+  	letter-spacing: 0.5em;
+/*   	行の間 */
+	line-height: 0.5;
+/* 	文字を太く */
+/* 	font-weight: bold; */
+/* 	文字の色 */
+  	color: transparent;
+	text-stroke: 2px black;
+	-webkit-text-stroke: 2px black;
+ /* display        : inline-block;
+ /* letter-spacing : 4px; :               /* 文字間 */
+/* 	text-shadow    : */
+/*        2px  2px 1px yellow, */
+/*       -2px  2px 1px yellow, */
+/*        2px -2px 1px yellow, */
+/*       -2px -2px 1px yellow, */
+/*        2px  0px 1px yellow, */
+/*        0px  2px 1px yellow, */
+/*       -2px  0px 1px yellow, */
+/*        0px -2px 1px yellow; */
+}
+.indexTitle{
+	/* 	文字のサイズ */
+	font-size: 30px;
+}
+.indexSelect{
+/* 	border-right:100px solid yellow; */
+	line-height: 1.5;
+	/*   	行の間 */
+/* 	line-height: 3; */
+	font-size: 60px;
+}
+
+.select{
+	font-family:HG行書体;
+	font-size:30px;
+/*   		文字の色 */
+  	color:red;
+	text-shadow    :
+       2px  2px 1px yellow,
+      -2px  2px 1px yellow,
+       2px -2px 1px yellow,
+      -2px -2px 1px yellow,
+       2px  0px 1px yellow,
+       0px  2px 1px yellow,
+      -2px  0px 1px yellow,
+       0px -2px 1px yellow;
+}
+.status{
+	font-family:HG行書体;
+/* 	text-align: right; */
+	font-size:10px;
+/*   		文字の色  */
+  	color:red;
+	text-shadow    :
+       2px  2px 1px black,
+      -2px  2px 1px black,
+       2px -2px 1px black,
+      -2px -2px 1px black,
+       2px  0px 1px black,
+       0px  2px 1px black,
+      -2px  0px 1px black,
+       0px -2px 1px black;
+
+	height: 100px;
+}
+
+.town{
+	background: url(img/dasan.gif);
+	background-position: center;
+  	background-size: cover;
+  	width: 100%;
+  	height: 100vh;
+	font-family:HG行書体;
+	font-size:30px;
+/*   		文字の色 */
+  	color:red;
+	text-shadow    :
+       2px  2px 1px yellow,
+      -2px  2px 1px yellow,
+       2px -2px 1px yellow,
+      -2px -2px 1px yellow,
+       2px  0px 1px yellow,
+       0px  2px 1px yellow,
+      -2px  0px 1px yellow,
+       0px -2px 1px yellow;
+
+}
+.item{
+	background: url(img/giphy.gif);
+	background-position: center;
+  	background-size: cover;
+  	width: 100%;
+  	height: 100vh;
+  	font-family:HG行書体;
+	font-size:30px;
+/*   		文字の色 */
+  	color:red;
+	text-shadow    :
+       2px  2px 1px yellow,
+      -2px  2px 1px yellow,
+       2px -2px 1px yellow,
+      -2px -2px 1px yellow,
+       2px  0px 1px yellow,
+       0px  2px 1px yellow,
+      -2px  0px 1px yellow,
+       0px -2px 1px yellow;
+}
+
+.weaponShop{
+	background: url(img/original.gif);
+	background-position: center;
+  	background-size: cover;
+  	width: 100%;
+  	height: 100vh;
+  	font-family:HG行書体;
+	font-size:30px;
+/*   		文字の色 */
+  	color:red;
+	text-shadow    :
+       2px  2px 1px yellow,
+      -2px  2px 1px yellow,
+       2px -2px 1px yellow,
+      -2px -2px 1px yellow,
+       2px  0px 1px yellow,
+       0px  2px 1px yellow,
+      -2px  0px 1px yellow,
+       0px -2px 1px yellow;
+}
+.inn{
+	background: url(img/酒店.gif);
+	background-position: center;
+  	background-size: cover;
+  	width: 100%;
+  	height: 100vh;
+  	font-family:HG行書体;
+	font-size:30px;
+/*   		文字の色 */
+  	color:red;
+	text-shadow    :
+       2px  2px 1px yellow,
+      -2px  2px 1px yellow,
+       2px -2px 1px yellow,
+      -2px -2px 1px yellow,
+       2px  0px 1px yellow,
+       0px  2px 1px yellow,
+      -2px  0px 1px yellow,
+       0px -2px 1px yellow;
+}
+.castle{
+	background: url(img/castle.jpg);
+	background-position: center;
+  	background-size: cover;
+  	width: 100%;
+  	height: 100vh;
+  	font-family:HG行書体;
+	font-size:30px;
+/*   		文字の色 */
+  	color:red;
+	text-shadow    :
+       2px  2px 1px yellow,
+      -2px  2px 1px yellow,
+       2px -2px 1px yellow,
+      -2px -2px 1px yellow,
+       2px  0px 1px yellow,
+       0px  2px 1px yellow,
+      -2px  0px 1px yellow,
+       0px -2px 1px yellow;
+}
+.gameover{
+	background: url(img/gameover.gif);
+	background-position: center;
+  	background-size: cover;
+  	width: 100%;
+  	height: 100vh;
+  	font-family:HG行書体;
+	font-size:30px;
+/*   		文字の色 */
+  	color:red;
+	text-shadow    :
+       2px  2px 1px yellow,
+      -2px  2px 1px yellow,
+       2px -2px 1px yellow,
+      -2px -2px 1px yellow,
+       2px  0px 1px yellow,
+       0px  2px 1px yellow,
+      -2px  0px 1px yellow,
+       0px -2px 1px yellow;
+}
+
+/* アイコン ----------------------------------------------------------------*/
+.close.icon {
+  color: #000;
+  position: absolute;
+  margin-top: 0;
+  margin-left: 0;
+  width: 21px;
+  height: 21px;
+}
+
+.close.icon:before {
+  content: '';
+  position: absolute;
+  top: 10px;
+  width: 21px;
+  height: 1px;
+  background-color: currentColor;
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+}
+
+.close.icon:after {
+  content: '';
+  position: absolute;
+  top: 10px;
+  width: 21px;
+  height: 1px;
+  background-color: currentColor;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
+
